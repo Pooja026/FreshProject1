@@ -1,6 +1,6 @@
 Welcome to Allstate
 
 Select * 
-from Student
-where empid=10 and empsal>20000
+from Employee
+where empid=10 and empsal>10000
 group by emp; 
