@@ -1,6 +1,2 @@
-Welcome to Allstate
-
-Select * 
-from Employee
-where empid=10 and empsal>10000
-group by emp; 
+insert into das
+values(10,asdf,250000,12.35); 
