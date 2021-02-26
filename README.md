@@ -1,2 +1,3 @@
-insert into das
-values(10,asdf,250000,12.35); 
+insert into dasasdfa
+values(10,asdf,250000,12.35);
+asdfjkl;lkjbvcf 
