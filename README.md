@@ -1,5 +1,5 @@
-Welcome to Banalore
+Welcome to atani
 
-Select empid,sal 
-from Student
+Select * 
+from employee
 where empid=20 and empsal>20000;
