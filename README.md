@@ -1,7 +1,7 @@
 Welcome to Allstate
 
-Select * 
+Select empid 
 from Employee
-where empid=10 and empsal>10000
+where empid=100 and empsal>20000
 group by emp
 having sal=20000; 
