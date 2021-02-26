@@ -1,7 +1,5 @@
-Welcome to Allstate
+Welcome to Banalore
 
-Select * 
+Select empid,sal 
 from Student
-where empid=20 and empsal>20000
-group by emp; 
-having sal=10000;
+where empid=20 and empsal>20000;
